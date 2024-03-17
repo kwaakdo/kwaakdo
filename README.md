@@ -1,7 +1,9 @@
+<div align="center">
 ### Hi there 👋
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaakdo&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaakdo&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaakdo&layout=compact)
+
 
 **kwaakdo/kwaakdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +24,4 @@ Here are some ideas to get you started:
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=babodohyun)
 
-
-
+</div>
