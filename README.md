@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-
-![](http://cse.syu.kr/api/v1/card?username=pdlwn)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xoxown)](https://solved.ac/xoxown)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=babodohyun)
 
 
