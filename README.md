@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
+![](http://cse.syu.kr/api/v1/card?username=pdlwn)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=babodohyun)
 
 
