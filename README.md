@@ -1,7 +1,2 @@
-<div align="center">
-  
-### Hi there 👋
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaakdo&show_icons=true&theme=transparent)
-
-</div>
+<span style='font-family:"Times New Roman"'> Operating System </span>
+<span style="font-family: 'Lucida Console';">foo</span>
