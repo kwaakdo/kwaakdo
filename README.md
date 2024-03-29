@@ -3,8 +3,8 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Dohyun and I like Next.js and Django" src="images/personal_note.svg" />
-  <br />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=2000&color=000000A9&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Dohyun+and+I+like+Next.js+and+Django.)](https://git.io/typing-svg)
+  <br />r
   <br />
 
 </div>
